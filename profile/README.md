@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=forplaizandlulz&label=Profile%20views&color=0e75b6&style=flat" alt="forplaizandlulz" /> </p>
 <h1 align="center">
   <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
   Bienvenue sur notre git !
@@ -8,7 +9,6 @@
 
 <h2 align="center">CTF hacking team 🇫🇷🏴‍☠️🦜</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=forplaizandlulz&label=Profile%20views&color=0e75b6&style=flat" alt="forplaizandlulz" /> </p>
 
 <h3 align="left">Contactez-nous sur :</h3>
 <p align="left">
