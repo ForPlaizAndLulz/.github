@@ -16,7 +16,7 @@
 
 <h3 align="center">Contactez-nous sur :</h3>
 <p align="center">
-<a style="padding : 1em"href="https://twitter.com/forplaizandlulz" target="_blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="forplaizandlulz" height="30" width="40" /></a>
-<a style="padding : 1em" href="https://discord.gg/F5PnnXjpfM" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="F5PnnXjpfM" height="30" width="30" /></a>
-<a style="padding : 1em" href="https://ctftime.org/team/10061" target="_blank"><img align="center" src="https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2189766987%2Fctftime-logo-avatar_400x400.png" alt="F5PnnXjpfM" height="30" width="30" /></a>
+<a style="padding : 1em;"href="https://twitter.com/forplaizandlulz" target="_blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="forplaizandlulz" height="30" width="40" /></a>
+<a style="padding : 1em;" href="https://discord.gg/F5PnnXjpfM" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="F5PnnXjpfM" height="30" width="30" /></a>
+<a style="padding : 1em;" href="https://ctftime.org/team/10061" target="_blank"><img align="center" src="https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F2189766987%2Fctftime-logo-avatar_400x400.png" alt="F5PnnXjpfM" height="30" width="30" /></a>
 </p>
