@@ -9,7 +9,9 @@
 
 <h2 align="center">CTF hacking team 🇫🇷🏴‍☠️🦜</h2>
 
-[(https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif)]
+<h1 align="center">
+  <img alt="Hacking éthique" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
+</h1>
 
 
 <h3 align="center">Contactez-nous sur :</h3>
