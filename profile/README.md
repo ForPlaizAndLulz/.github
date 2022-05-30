@@ -1,12 +1,12 @@
-<h2 align="center">
+<h1 align="center">
   <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
   Bienvenue sur notre git !
   <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
-</h2>
+</h1>
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">CTF hacking team 🇫🇷🏴‍☠️🦜</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forplaizandlulz&label=Profile%20views&color=0e75b6&style=flat" alt="forplaizandlulz" /> </p>
 
